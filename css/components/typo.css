@@ -1,0 +1,36 @@
+h1, h2, h3, h4 {
+  font-family: 'Arvo', serif;;
+  margin: 0;
+}
+
+h1 {
+  color: darkslategrey;
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+h2 {
+  color: darkslategrey;
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+h3 {
+  color: darkslategrey;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  color:darkslategrey;
+  font-size: 1rem;
+  font-weight: 200;
+  margin: 0;
+}
+
+.italic {
+  font-weight: 200;
+  font-style: italic;
+}
